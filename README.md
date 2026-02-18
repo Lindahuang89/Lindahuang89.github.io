@@ -4,15 +4,6 @@
 这里是我用 GitHub Pages 搭建的个人网站。
 
 
-你好，我是 Linda。
-这里是我用 GitHub Pages 搭建的个人网站。
-
-
-
-你好，我是 Linda。
-
-这里是我用 GitHub Pages 搭建的个人网站。
-
 ## 我正在学习
 - GitHub：如何发布内容、记录版本
 - AI：了解 AI Agent 的工作方式
