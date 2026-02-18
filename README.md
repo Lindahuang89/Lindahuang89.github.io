@@ -1,4 +1,13 @@
-# 欢迎来到我的主页
+![我的照片](c20d19a5bf02f4207d6f6265ccb28e8b.jpg)
+
+你好，我是 Linda。
+这里是我用 GitHub Pages 搭建的个人网站。
+
+
+你好，我是 Linda。
+这里是我用 GitHub Pages 搭建的个人网站。
+
+
 
 你好，我是 Linda。
 
